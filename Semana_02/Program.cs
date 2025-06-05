@@ -24,14 +24,14 @@ public class Rectangulo
         ancho = anchoRectangulo;
     }
 
-    // CalcularArea es un metodo que devuelve un valor double, se utiliza para calcular el área de un rectángulo
+    // CalcularArea es un método que devuelve un valor double, se utiliza para calcular el área de un rectángulo
     // multiplicando el largo por el ancho
     public double CalcularArea()
     {
         return largo * ancho;
     }
 
-    // CalcularPerimetro es una metodo que devuelve un valor double, se utiliza para calcular el perímetro de un rectángulo
+    // CalcularPerimetro es una método que devuelve un valor double, se utiliza para calcular el perímetro de un rectángulo
     // sumando todos sus lados: 2 veces el largo más 2 veces el ancho
     public double CalcularPerimetro()
     {
@@ -56,14 +56,14 @@ public class Circulo
         radio = radioCirculo;
     }
 
-    // CalcularArea es una metodo que devuelve un valor double, se utiliza para calcular el área de un círculo
+    // CalcularArea es una método que devuelve un valor double, se utiliza para calcular el área de un círculo
     // usando la fórmula π * radio²
     public double CalcularArea()
     {
         return Math.PI * radio * radio;
     }
 
-    // CalcularPerimetro es una metodo que devuelve un valor double, se utiliza para calcular el perímetro (circunferencia) de un círculo
+    // CalcularPerimetro es una método que devuelve un valor double, se utiliza para calcular el perímetro (circunferencia) de un círculo
     // usando la fórmula 2 * π * radio
     public double CalcularPerimetro()
     {
