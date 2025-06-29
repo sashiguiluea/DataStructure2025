@@ -437,7 +437,6 @@ public class Program
     public static void Main()
     {
         MostrarTitulo();
-
         AgendaTurnos agenda = new AgendaTurnos();
         bool continuar = true;
 
@@ -484,7 +483,7 @@ public class Program
                 Console.WriteLine("\nPresione cualquier tecla para continuar...");
                 Console.ReadKey();
                 Console.Clear();
-                MostrarTitulo();
+                //MostrarTitulo();
             }
         }
     }
