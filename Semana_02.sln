@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPE01_GestionTurnosMedicos"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_05", "Semana_05\Semana_05.csproj", "{DF17DFDD-BB59-4AF9-B548-16FC530DBC6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_06", "Semana_06\Semana_06.csproj", "{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{DF17DFDD-BB59-4AF9-B548-16FC530DBC6E}.Release|x64.Build.0 = Release|Any CPU
 		{DF17DFDD-BB59-4AF9-B548-16FC530DBC6E}.Release|x86.ActiveCfg = Release|Any CPU
 		{DF17DFDD-BB59-4AF9-B548-16FC530DBC6E}.Release|x86.Build.0 = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|x64.Build.0 = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Debug|x86.Build.0 = Debug|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|x64.ActiveCfg = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|x64.Build.0 = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|x86.ActiveCfg = Release|Any CPU
+		{F77AEB69-B826-4DB1-9A3E-D7F5689A7B20}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
