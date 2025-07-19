@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_06", "Semana_06\Sema
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_07", "Semana_07\Semana_07.csproj", "{19C96BD6-4EE4-491C-9613-F96B302CFC05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPE02_GestionParqueDiversion", "CPE02_GestionParqueDiversion\CPE02_GestionParqueDiversion.csproj", "{A47BE306-8002-4199-BD2A-FB2281EF1D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +99,18 @@ Global
 		{19C96BD6-4EE4-491C-9613-F96B302CFC05}.Release|x64.Build.0 = Release|Any CPU
 		{19C96BD6-4EE4-491C-9613-F96B302CFC05}.Release|x86.ActiveCfg = Release|Any CPU
 		{19C96BD6-4EE4-491C-9613-F96B302CFC05}.Release|x86.Build.0 = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|x64.Build.0 = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Debug|x86.Build.0 = Debug|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|x64.ActiveCfg = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|x64.Build.0 = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{A47BE306-8002-4199-BD2A-FB2281EF1D0E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
